@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BDO_Plus.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="windowPos" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="isoverlay" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="hidetxt" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="region" Type="System.String" Scope="User">
+      <Value Profile="(Default)">eu</Value>
+    </Setting>
+    <Setting Name="bosses" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+Kutum
+Karanda
+Kzarka
+Offin
+Nouver
+Garmoth
+Vell
+Quint
+Muraka</Value>
+    </Setting>
+    <Setting Name="elixtimer" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="daynight" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
