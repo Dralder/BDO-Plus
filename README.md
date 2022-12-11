@@ -11,8 +11,11 @@
 
 # Keybinds
 **Alt + V** : Enable overlay mode
+
 **Alt + H** : Hide keybinds reminder
+
 **Alt + E** : Start elixirs timer
+
 **Alt +ESC** : Exit App
 
 # Available regions
