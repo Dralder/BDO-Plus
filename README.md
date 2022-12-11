@@ -9,6 +9,8 @@
 
 [Download installer](https://github.com/Dralder/BDO-Plus/releases)
 
+**Requires** [.NET Desktop Runtime 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+
 # Keybinds
 **Alt + V** : Enable overlay mode
 
