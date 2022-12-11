@@ -1,5 +1,4 @@
 ![](https://i.imgur.com/GU4uyyX.png)
-**BDO-Plus**
 ### Features
 
 - overlay mode
